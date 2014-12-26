@@ -1,0 +1,4 @@
+url: "http://emilesenga.co.za"
+highlighter: pygments
+permalink: /:title/
+markdown: redcarpet
