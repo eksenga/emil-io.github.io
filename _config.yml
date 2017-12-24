@@ -1,4 +1,4 @@
 url: "http://emilesenga.co.za"
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 markdown: redcarpet
