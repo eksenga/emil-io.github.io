@@ -1,6 +1,7 @@
 html {
   height: 100%;
 }
+
 body {
   min-height: 100%;
   font-family: 'Merriweather Sans', sans-serif;
@@ -12,6 +13,7 @@ a, a span {
   -o-transition: color .3s ease-in-out;
   transition: color .3s ease-in-out;
 }
+
 a {
   color: #48b983;
 }
@@ -36,6 +38,7 @@ header {
   color: #eee;
   padding: 40px;
 }
+
 header h1 {
   text-transform: uppercase;
   font-size: 70px;
@@ -43,6 +46,7 @@ header h1 {
   margin: 0 0 0 -4px;
   color: #242222;
 }
+
 @media (max-width: 767px) {
   header h1 {
     letter-spacing: 5px;
