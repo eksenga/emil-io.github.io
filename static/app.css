@@ -38,9 +38,9 @@ header {
 }
 header h1 {
   text-transform: uppercase;
-  font-size: 50px;
+  font-size: 70px;
   letter-spacing: 4.5px;
-  margin: 0 0 0 4px;
+  margin: 0 0 0 -4px;
   color: #242222;
 }
 @media (max-width: 767px) {
@@ -143,4 +143,8 @@ p.signature {
 
 .post h2 {
   margin-bottom: 20px;
+}
+
+.list-line {
+  margin-left: 0 !important;
 }
